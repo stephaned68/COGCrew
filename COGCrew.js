@@ -1,5 +1,5 @@
 /**
- * COGCrew v1.0.0
+ * COGCrew v1.00
  * Last update : 2023-07-16
  * How to use :
  * - Install the script
@@ -15,7 +15,7 @@ COGCrew ||
     
     const stateKey = "COGCrew";
     const modName = `Mod:${stateKey}`;
-    const modVersion = "1.0.0";
+    const modVersion = "1.00";
     const modCmd = `!${stateKey.toLowerCase()}`;
 
     const gmOnly = "/w gm ";
