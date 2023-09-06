@@ -2,7 +2,7 @@
 
 _Un script MOD Roll20 pour la fiche de personnage Chroniques Oubliées Galactiques_
 
-## Usage
+## Utilisation
 
 Ce script permet de mettre à jour automatiquement les bonus d'équipage sur une fiche de vaisseau spatial ou de mécha.
 
